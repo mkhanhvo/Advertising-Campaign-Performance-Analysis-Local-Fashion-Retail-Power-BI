@@ -1,4 +1,4 @@
-# Advertising Campaign Performance Analysis: Revenue, Profit and Sales Impact
+## 📊 Advertising Campaign Performance Analysis: Revenue, Profit and Sales Impact
 
 ### Author: Vo Tran Mai Khanh
 ### Date: 12/2025
@@ -6,7 +6,7 @@
 
 ## 📌 Background & Overview  
 
-### Objective:
+### 📖 Objective:
 - Evaluate the overall effectiveness and profitability of advertising campaign
 - Compare performance between advertising driven sales and direct sales channels
 - Assess campaign-level efficiency (ROAS, revenue impact, profit contribution)
@@ -20,7 +20,7 @@
 - Sales Team – to compare Ads vs Direct sales performance
 - Finance Team – to assess profitability and monitor cost efficiency
 
-### Client Background
+### 👤 Client Background
 The business operates in the Vietnamese fashion market with nationwide coverage. This project focuses on analyzing online marketing campaigns for the women’s fashion category across 62 cities and provinces, spanning Northern to Southern Vietnam, the campaigns were conducted over a one month period and have entered the review stage. The analysis evaluates campaign performance based on revenue contribution, effectiveness across products and the efficiency of marketing spend allocation. The objective is to support data driven decisions on whether to maintain or adjust campaign setups, budget distribution, creative strategies and overall marketing execution
 
 ## 📂 Dataset Description & Data Structure  
@@ -113,20 +113,13 @@ The business operates in the Vietnamese fashion market with nationwide coverage.
 
 <img width="641" height="337" alt="image" src="https://github.com/user-attachments/assets/29083f73-25f2-4cf8-a652-7c04bdf4ed04" />
 
-
-
 ### 2️⃣ Define point of view 
-
 
 <img width="938" height="302" alt="image" src="https://github.com/user-attachments/assets/a5062b81-2b15-4a84-939a-8e30b6ac059f" />
 
-
-
 ### 3️⃣ Ideate  
 
-
 <img width="1052" height="206" alt="image" src="https://github.com/user-attachments/assets/e3148cb8-2ee2-4c9e-8b91-51e8c7cfa9ba" />
-
 
 ## 📊 Key Insights & Visualizations  
 
@@ -228,17 +221,17 @@ Ads revenue is highly concentrated in a small number of core campaigns: top 5 re
 - For the 4% of zero-revenue campaigns, optimize creatives or targeting before elimination
 
 ### 📌 Analysis 2. Conversion Performance by Category
-Overall funnel trends:
+**Overall funnel trends:**
 - CTR remains stable at 0.6% - 1.0%
 - Click → Comment/Inbox rates are high (25% - 40%), indicating strong initial interest
 - However, Click → Order conversion is only 10% - 23%, showing friction at the purchase decision stage
 
-Budget scaling:
+**Budget scaling:**
 - Does not improve conversion cost
 - Conversion cost remains flat or increases slightly as spend grows
 - CPM ranges between 60K–100K with no meaningful decline as impressions increase
 
-Category level highlights
+**Category level highlights**
 
 **Waist flare dresses *(*Vay chiet eo xoe*)*:** stable funnel, Click → Order ~20%+, conversion cost does not worsen with increased spend
 
@@ -260,6 +253,14 @@ Category level highlights
 
 <img width="1001" height="176" alt="image" src="https://github.com/user-attachments/assets/6976f65f-1960-4e80-a7b8-4bca749e616e" />
 
+### Recommendations
+- Reallocate budget from near zero revenue campaigns to validated top performers but scale only after confirming sustainable ROAS and margin contribution
+- Establish a minimum performance threshold (revenue + profit-adjusted ROAS) to automatically pause inefficient campaigns and reduce budget leakage
+- Reduce dependency on a small number of revenue driving campaigns by strengthening mid tier performers with stable conversion efficiency
+- Shift strategic focus from traffic expansion to purchase stage optimization, as Click → Order conversion (10–23%) remains the primary bottleneck despite strong engagement
+- Improve pricing structure, discount depth and offer clarity for low conversion categories before increasing spend
+- Scale only categories with stable conversion cost and margin sustainability, avoid expanding budget where conversion efficiency does not improve with volume
+
 ### 3️⃣ Sales & Product Performance Analysis 
 
 <img width="856" height="540" alt="image" src="https://github.com/user-attachments/assets/3a8fd301-0dd0-46d4-aab8-3c72564c54a7" />
@@ -273,16 +274,35 @@ Category level highlights
 
 <img width="761" height="231" alt="image" src="https://github.com/user-attachments/assets/d3143994-ad79-43e3-8017-72922c08b016" />
 
-### 📌 Analysis 2. Weekly Order Trend & Channel Dynamics:
+### Recommendation
+- Scale high ROAS categories selectively, particularly Váy Chiết Eo Ôm, while validating sustainability of late week spikes before aggressive budget expansion
+- Re-evaluate early phase campaign structure, optimizing targeting and creatives to improve efficiency in Weeks 1–3
+- Since zero-revenue campaigns are minimal (~4%), focus on performance optimization rather than campaign elimination, refining underperforming segments instead of broad cuts
 
+### 📌 Analysis 2. Weekly Order Trend & Channel Dynamics:
 Across the 5-week campaign, both Ads and Direct Sales show a clear growth pattern followed by a decline in the final week, with Ads consistently driving higher order volume. The strongest acceleration occurred from Week 1 to Week 2, where **Ads orders surged by +296% (112 to 443) and Direct Sales increased by +157% (84 to 216)**, indicating the campaign’s initial impact phase. Growth then **stabilized in Week 2 to Week 3,** with **Ads rising only +6% and Direct Sales +1%,** suggesting performance plateauing
 
 Momentum picked up again in Week 3 to Week 4, particularly for **Direct Sales (+28% vs. Ads +8%),** **reflecting improved channel balance.** However, Week 4 to Week 5 marked a contraction, **with Ads declining –5% and Direct Sales dropping more sharply at –13%,** **signaling late stage fatigue.** Overall, while Ads remains the dominant volume driver, Direct Sales exhibits greater volatility and stronger relative swings, implying that channel performance dynamics shift throughout the campaign lifecycle rather than growing linearly
 
 <img width="1026" height="208" alt="image" src="https://github.com/user-attachments/assets/90c21196-7cdb-471f-b040-e6d6bc71a334" />
 
+### Recommendation
+- Implement campaign refresh cycles before Week 5 to mitigate late-stage fatigue (creative rotation, offer variation)
+- Leverage Ads for acquisition momentum in early phases, then strengthen Direct Sales activation in mid to late campaign stages to stabilize volume
+- Introduce performance checkpoints weekly to adjust budget dynamically rather than waiting until decline appears
 
+### 📌 Analysis 3. Campaign Volume vs ROAS Efficiency
+The relationship between ad spend and revenue contribution shows uneven efficiency across categories. While **Áo Tách Set combines high spend (~$100M+) with over 80% contribution**, other high spend categories such as Váy Chiết Eo Xòe deliver only around 65%, indicating weaker marginal returns. Several mid and low spend categories remain within the 40–50% contribution range. Overall, **higher spend does not consistently translate into proportionally higher revenue contribution,** suggesting diminishing returns in certain segments and the need for performance based budget allocation
 
+Across categories, **performance is uneven and not directly correlated with campaign volume.** While overall ROAS improved from 5.72 (Week 1) to 9.05 (Week 5), this increase was not driven by a proportional rise in the number of campaigns. For example, in Week 3 several categories reached peak campaign counts, yet overall ROAS remained at 7.55, lower than Week 5 where campaign numbers declined but ROAS climbed to 9.05. Similarly, some categories expanded campaigns from Week 1 to Week 2 without a consistent ROAS lift, indicating that scaling volume alone did not improve efficiency. At the category level, ROAS dispersion is substantial: most categories operate within a 4–11 ROAS range, while Váy Chiết Eo Ôm spiked to 72.19 (Week 4) and 43.67 (Week 5), suggesting outlier driven performance rather than systematic gains
+
+<img width="992" height="220" alt="image" src="https://github.com/user-attachments/assets/fcc63f6d-6cb5-4243-a999-438aed4453cc" />
+
+### Recommendation
+- Shift from volume driven scaling to efficiency driven scaling, prioritizing stable 6–11 ROAS categories over outlier spikes
+- Consolidate campaigns in mid performing categories to reduce budget fragmentation
+- Apply category-specific budget allocation, increasing investment only where marginal ROAS remains stable rather than expanding campaign count broadly
+- Monitor diminishing return effects in high spend categories through incremental budget testing
 
 ## Recommendations
 - Focus optimization on the purchase decision stage, not media exposure
@@ -290,5 +310,29 @@ Momentum picked up again in Week 3 to Week 4, particularly for **Direct Sales (+
 - Keep waist fitted dresses category in a testing phase
 - Limit conversion-focused ads for sets and separated items, instead use bundles styling suggestions and conditional promotions
 
-## Overall Conclusion
-The campaign did not fail in generating demand or orders; it failed in converting revenue into profit. Advertising effectively drives volume, but misaligned discount strategy and non-selective scaling have created systematic losses. Sustainable improvement requires restructuring discount policies and reallocating budgets based on category-level effectiveness, rather than increasing spend indiscriminately
+## 🔎 Final Conclusion & Recommendations  
+
+### 1️⃣ Shift KPI from Revenue Growth → Profit Adjusted ROAS
+- Evaluate campaigns based on Profit per Order and Margin adjusted ROAS, not revenue alone
+- Set minimum acceptable ROAS threshold aligned with break-even margin
+
+### 2️⃣ Category Specific Budget Allocation
+- Increase budget only in categories with stable 6–11 ROAS performance
+- Avoid scaling based on short term spikes (e.g., Week 4–5 outliers) without validation
+- Reduce spend in high volume but structurally loss-making categories
+
+### 3️⃣ Redesign Discount Strategy
+- Replace uniform discounting with category level pricing control
+- Reduce discount depth in high volume categories to prevent scaling losses
+- Protect contribution margin before pushing volume
+
+### 4️⃣ Efficiency Driven Scaling Framework
+- Stop expanding campaign count as a growth lever
+- Use incremental budget testing to detect diminishing returns
+- Consolidate fragmented campaigns to improve budget efficiency
+
+### 5️⃣ Funnel Optimization at Purchase Stage
+- Prioritize improving Click → Order conversion (currently 10–23%) by addressing purchase-stage friction rather than increasing traffic volume
+- Improve checkout friction
+- Test urgency mechanics and offer framing
+- Align creative messaging with margin friendly SKUs
