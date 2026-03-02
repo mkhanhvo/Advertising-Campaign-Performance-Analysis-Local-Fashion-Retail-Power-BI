@@ -1,3 +1,5 @@
+<img width="1199" height="654" alt="image" src="https://github.com/user-attachments/assets/af69ee26-a612-4555-a653-671f2e794d2c" />
+
 # 📊 Advertising Campaign Performance & Profitability Analysis
 
 ### Author: Vo Tran Mai Khanh
@@ -163,7 +165,7 @@ However, comparison between ads spend, ROAS and revenue shows no clear linear re
 - Incorporate creative quality, product category and campaign timing when making scaling decisions
 
 ### 📌 Analysis 2. High Ads Revenue but Weak Profitability
-- Out of 2,858 total orders, 1,958 orders (68.5%) were generated through ads, confirming ads as the primary order driving channel. However, when comparing ads spend and ads profit, over 60% of ad days recorded negative profit regardless of spend level. Ads successfully generate volume but fail to deliver consistent profitability
+- Out of 2,858 total orders, **1,958 orders (68.5%) were generated through ads,** confirming ads as the primary order driving channel. However, when comparing ads spend and ads profit, **over 60% of ad days recorded negative profit regardless of spend level.** Ads successfully generate volume but fail to deliver consistent profitability
 - From a daily perspective: only 29% of days (9/31) were profitable overall. For ads channel specifically, there were 22 days showed negative profit, only 5 days were profitable while the remaining days recorded zero or negative revenue
 
 <img width="425" height="266" alt="image" src="https://github.com/user-attachments/assets/cc423335-4c77-4f4f-a8bb-a48856dddcfc" />
@@ -173,7 +175,7 @@ However, comparison between ads spend, ROAS and revenue shows no clear linear re
 - Treat ads as a conditional sales enabler, not a channel for unrestricted scaling
 
 ### 📌 Analysis 3. Systematic Profit Loss by Category
-Category × channel analysis shows: 03 product categories including Apparels *(Ao tach set)*, Standalone skirts (*Chan vay tach set*) and Standalone pants *(Quan tach set)* are the primary drivers of negative profit, recording losses in both ads and direct sales for over 80% of campaign days
+Category × channel analysis shows: 03 product categories including Apparels *(Ao tach set)*, Standalone skirts (*Chan vay tach set*) and Standalone pants *(Quan tach set)* are the primary drivers of negative profit, **recording losses in both ads and direct sales for over 80% of campaign days**
 
 #### *Profit performance and channel contribution analysis of category Apparel *(Ao tach set)**
 
@@ -222,9 +224,7 @@ Ads revenue is highly concentrated in a small number of core campaigns: top 5 re
 
 ### 📌 Analysis 2. Conversion Performance by Category
 **Overall funnel trends:**
-- CTR remains stable at 0.6% - 1.0%
-- Click → Comment/Inbox rates are high (25% - 40%), indicating strong initial interest
-- However, Click → Order conversion is only 10% - 23%, showing friction at the purchase decision stage
+CTR remains stable at 0.6% - 1.0%, Click → Comment/Inbox rates are high (25% - 40%), indicating strong initial interest. However, Click → Order conversion is only 10% - 23%, showing friction at the purchase decision stage
 
 **Budget scaling:**
 - Does not improve conversion cost
