@@ -1,15 +1,126 @@
 # Marketing Campaign Performance Overview: Revenue, Profit and Advertising Impact
-## Domain: Retail
-## Tool: Power Query, PBI
 
-## Key Outcomes
-- Identified root causes behind negative profit in 20% of top selling products
+### Author: Vo Tran Mai Khanh
+### Date: 12/2025
+### Tools Used: Power Query, PBI
 
-- Uncovered delayed conversion patterns in ads campaigns peaking around final durations and flagged critical inefficiencies including 43% of products generating zero revenue and 18% of regions delivering negative profit, enabling more informed decisions on campaign duration, budget allocation and product level optimization
+## 📌 Background & Overview  
 
-## Client Background
+### Objective:
+- Evaluate the overall effectiveness and profitability of advertising campaign
+- Compare performance between advertising driven sales and direct sales channels
+- Assess campaign-level efficiency (ROAS, revenue impact, profit contribution)
+- Identify high performing products to scale investment and low performing products to reconsider
+- Analyze product-level profitability to optimize budget allocation
+- Provide data driven recommendations to improve marketing spend efficiency
 
+### 👤 Who is this project for?  
+- Marketing Manager – to evaluate campaign effectiveness and allocate budget
+- Performance Marketing Team – to optimize ads and scale high-performing campaigns
+- Sales Team – to compare Ads vs Direct sales performance
+- Finance Team – to assess profitability and monitor cost efficiency
+
+### Client Background
 The business operates in the Vietnamese fashion market with nationwide coverage. This project focuses on analyzing online marketing campaigns for the women’s fashion category across 62 cities and provinces, spanning Northern to Southern Vietnam, the campaigns were conducted over a one month period and have entered the review stage. The analysis evaluates campaign performance based on revenue contribution, effectiveness across products and the efficiency of marketing spend allocation. The objective is to support data driven decisions on whether to maintain or adjust campaign setups, budget distribution, creative strategies and overall marketing execution
+
+## 📂 Dataset Description & Data Structure  
+
+### 📊 Data Source  
+- Source: dataset including order data (Direct vs Ads), campaign spending distribution and product dimension tables, enabling performance and profitability analysis at channel and product levels
+- Size: ~600+ records across two fact tables and supporting product dimensions
+- Format: .xlsx
+
+#### 1️⃣ Tables Used: 
+- Fact_Order
+- Fact_MKT camp by sku cost
+- Dim_MKT camp cost
+- Dim_danh sach san pham
+- Dim_category
+- Dim_product
+- Dim_sale sources
+- Date
+
+#### 2️⃣ Table Schema & Data Snapshot
+
+**Table 1: Campaigns Table**
+<details>
+<summary>Campaigns Table Schema</summary>
+<img width="700" height="96" alt="image" src="https://github.com/user-attachments/assets/5eb6d783-9e0e-43df-82ee-ef39ce800842" />
+<img width="700" height="92" alt="image" src="https://github.com/user-attachments/assets/3bd58a82-d1e6-489f-bdff-b7481fb9b8c0" />
+<img width="700" height="95" alt="image" src="https://github.com/user-attachments/assets/a1fd058f-1aa9-4b8b-9f00-e107ec5f000d" />
+<img width="700" height="80" alt="image" src="https://github.com/user-attachments/assets/eea5b0aa-b8d3-4fef-967a-287491a46cc7" />
+<img width="700" height="91" alt="image" src="https://github.com/user-attachments/assets/5b01497e-f7c6-4cee-a530-96b048053a5a" />
+</details>
+
+**Table 2: Order Table**
+<details>
+<summary>Order Table Schema</summary>
+<img width="700" height="94" alt="image" src="https://github.com/user-attachments/assets/cdf61317-0795-4555-a3ed-72fda80cea0e" />
+<img width="700" height="92" alt="image" src="https://github.com/user-attachments/assets/648a27e7-7390-4bea-b7e6-d9720d38644f" />
+</details>
+
+**Table 3: Date**
+<details>
+<summary>Date Table Schema</summary>
+<img width="488" height="92" alt="image" src="https://github.com/user-attachments/assets/138bce25-db57-4f5d-a533-68e8da782bfa" />
+</details>
+
+**Table 4: Dim Marketing Camp Cost**
+<details>
+<summary>Dim Marketing Camp Cost Table Schema</summary>
+<img width="940" height="94" alt="image" src="https://github.com/user-attachments/assets/70aabf1a-cdbc-4f0d-add8-bb1b5a9d2b6a" />
+<img width="405" height="92" alt="image" src="https://github.com/user-attachments/assets/89889eed-ab09-4a44-995c-09da88f4a6e2" />
+</details>
+
+**Table 5: Dim Danh Sach San Pham**
+<details>
+<summary>Dim Danh Sach San Pham Schema</summary>
+<img width="1030" height="92" alt="image" src="https://github.com/user-attachments/assets/31f1151b-0695-4c2b-a9e6-ae6fe1495230" />
+</details>
+
+**Table 6: Dim Category**
+<details>
+<summary>Dim Category Table Schema</summary>
+<img width="156" height="205" alt="image" src="https://github.com/user-attachments/assets/55b84d81-ea23-42d4-9bc3-993f0e0167bf" />
+</details>
+
+**Table 7: Dim Product**
+<details>
+<summary>Dim Product Table Schema</summary>
+<img width="350" height="93" alt="image" src="https://github.com/user-attachments/assets/99252f05-62d0-4d10-b5c1-ea82db4353d4" />
+</details>
+
+**Table 8: Dim Sale Sources**
+<details>
+<summary>Dim Sale Sources Table Schema</summary>
+<img width="71" height="45" alt="image" src="https://github.com/user-attachments/assets/2bb80249-93de-468d-b133-84163460e444" />
+</details>
+
+#### 3️⃣ Data Relationships: 
+- Fact_MKT camp by sku cost -> Dim_MKT camp cost: many to one
+- Fact_MKT camp by sku cost -> Date: many to one
+- Fact_MKT camp by sku cost -> Dim_danh sach san pham: many to one
+- Fact Order -> Date: many to one
+- Fact Order -> Dim_danh sach san pham: many to one
+- Fact Order -> Dim Category: many to one
+- Fact Order -> Dim Product: many to one
+- Fact Order -> Dim Sale Sources: many to one
+
+<img width="636" height="518" alt="image" src="https://github.com/user-attachments/assets/8e56a56a-35c8-420a-8ecc-5a6410ae7f51" />
+
+## 🧠 Design Thinking Process  
+1️⃣ Empathize 
+
+<img width="641" height="337" alt="image" src="https://github.com/user-attachments/assets/29083f73-25f2-4cf8-a652-7c04bdf4ed04" />
+
+2️⃣ Define point of view 
+
+<img width="938" height="302" alt="image" src="https://github.com/user-attachments/assets/a5062b81-2b15-4a84-939a-8e30b6ac059f" />
+
+3️⃣ Ideate  
+
+<img width="1052" height="206" alt="image" src="https://github.com/user-attachments/assets/e3148cb8-2ee2-4c9e-8b91-51e8c7cfa9ba" />
+
 
 ## Executive Summary
 
