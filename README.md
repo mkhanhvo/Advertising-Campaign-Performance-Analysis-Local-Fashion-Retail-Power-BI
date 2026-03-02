@@ -109,31 +109,38 @@ The business operates in the Vietnamese fashion market with nationwide coverage.
 <img width="636" height="518" alt="image" src="https://github.com/user-attachments/assets/8e56a56a-35c8-420a-8ecc-5a6410ae7f51" />
 
 ## 🧠 Design Thinking Process  
-1️⃣ Empathize 
+### 1️⃣ Empathize 
 
 <img width="641" height="337" alt="image" src="https://github.com/user-attachments/assets/29083f73-25f2-4cf8-a652-7c04bdf4ed04" />
 
-2️⃣ Define point of view 
+
+
+### 2️⃣ Define point of view 
+
 
 <img width="938" height="302" alt="image" src="https://github.com/user-attachments/assets/a5062b81-2b15-4a84-939a-8e30b6ac059f" />
 
-3️⃣ Ideate  
+
+
+### 3️⃣ Ideate  
+
 
 <img width="1052" height="206" alt="image" src="https://github.com/user-attachments/assets/e3148cb8-2ee2-4c9e-8b91-51e8c7cfa9ba" />
+
 
 ## 📊 Key Insights & Visualizations  
 
 ### 🔍 Dashboard Preview  
 
-#### 1️⃣ Overview page preview  
+### 1️⃣ Overview page preview  
 
-
+<img width="767" height="490" alt="image" src="https://github.com/user-attachments/assets/467dc26e-a90f-43ac-8348-bd8ba74c5f83" />
 
 ### *Revenue by Channel*
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/f8bb11ba10f43e19611ed8eb6be629bd56f778e6/Insight%20-%20Revenue%20by%20Channels.png)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/39c49bd8-dd24-42bf-b285-b4b7f6ad4d11" />
 
-### *% Budget used and ads profit by day*
+#### *% Budget used and ads profit by day*
 
 ![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/a3ad2e2214eb3e33920b1f0692f350fd4cbe1b28/Overall%20-%20%25%20budget%20used%20vs%20profit.png)
 
