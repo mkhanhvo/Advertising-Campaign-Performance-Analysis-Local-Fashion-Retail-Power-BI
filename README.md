@@ -136,37 +136,37 @@ The business operates in the Vietnamese fashion market with nationwide coverage.
 
 <img width="767" height="490" alt="image" src="https://github.com/user-attachments/assets/467dc26e-a90f-43ac-8348-bd8ba74c5f83" />
 
-### *Revenue by Channel*
+#### *Revenue by Channel*
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/39c49bd8-dd24-42bf-b285-b4b7f6ad4d11" />
+<img width="392" height="247" alt="image" src="https://github.com/user-attachments/assets/1e41dbf8-20fb-4eb5-884e-0a79b84b1ca6" />
 
 #### *% Budget used and ads profit by day*
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/a3ad2e2214eb3e33920b1f0692f350fd4cbe1b28/Overall%20-%20%25%20budget%20used%20vs%20profit.png)
+<img width="387" height="244" alt="image" src="https://github.com/user-attachments/assets/45ccb705-2762-497f-84fe-314729c3d536" />
+
+#### *Discount impact on profit from ads channel*
+
+<img width="674" height="209" alt="image" src="https://github.com/user-attachments/assets/2e4806ec-9dee-4ff6-bdb1-9584ff9bcbe3" />
+
+#### *Discount impact on profit from direct channel*
+
+<img width="672" height="209" alt="image" src="https://github.com/user-attachments/assets/e175a7c8-b9a5-4dc5-8f0e-5a45c7cd896c" />
 
 Deeper analysis indicates that the core issue is a uniform and prolonged discount policy applied across categories. This policy resulted in systematic profit losses across both ads and direct sales channels. At the same time, conversion performance varies significantly by product category, suggesting that budget allocation and sales strategy should be category specific rather than evenly distributed
-
-### *Discount impact on profit from ads channel*
-
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/49e48f30846442ad27327c60ce3170fcd1ab0397/Insight%20-%20Discount%20impact%20on%20profit%20(ads).png)
-
-### *Discount impact on profit from direct channel*
-
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/49e48f30846442ad27327c60ce3170fcd1ab0397/Insight%20-%20Discount%20impact%20on%20profit%20(direct).png)
 
 ## I. Marketing Performance – Insights & Recommendations
 ### 1. Budget Control & Spending Efficiency
 Budget utilization was well controlled for over 86% of the campaign duration, Only 13.33% of total days exceeded budget, mainly during the mid and late stages of the campaign
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/a68cc732f12c57b70d6ac3a97dcaa4549390404e/Overall%20-%20%25%20budget%20used.png)
+<img width="387" height="244" alt="image" src="https://github.com/user-attachments/assets/089872d6-62ad-40f6-8854-3a1d51614794" />
 
 However, comparison between ads spend, ROAS and revenue shows no clear linear relationship:
 - High ROAS and revenue days did not consistently coincide with overspending days
 - Several days with controlled spending still delivered weak performance
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/160bc71f2bad3a2f5db199364a1bb5b86333a493/Overall%20-%20Buget%2C%20ROAS%2C%20Rev%20by%20day.png)
-
-### -> This indicates that budget level alone is not the primary driver of performance
+ This indicates that budget level alone is not the primary driver of performance
+ 
+<img width="425" height="269" alt="image" src="https://github.com/user-attachments/assets/164a7164-c20c-4932-b0da-28868f4f56b7" />
 
 ## Recommendations
 _ Avoid optimizing performance solely by increasing or tightening budgets
@@ -176,7 +176,7 @@ _ Incorporate creative quality, product category and campaign timing when making
 - Out of 2,858 total orders, 1,958 orders (68.5%) were generated through ads, confirming ads as the primary order driving channel. However, when comparing ads spend and ads profit, over 60% of ad days recorded negative profit regardless of spend level. Ads successfully generate volume but fail to deliver consistent profitability
 - From a daily perspective: only 29% of days (9/31) were profitable overall. For ads channel specifically, there were 22 days showed negative profit, only 5 days were profitable while the remaining days recorded zero or negative revenue
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/1a3d54a785ce8eb3cb63fd350252667274469c7e/Overall%20-%20Total%20revenue%20%26%20Profit.png)
+<img width="425" height="266" alt="image" src="https://github.com/user-attachments/assets/cc423335-4c77-4f4f-a8bb-a48856dddcfc" />
 
 ## Recommendations
 - Shift ads evaluation from revenue generated to revenue generated under a profitable cost structure
@@ -187,26 +187,26 @@ Ads revenue is highly concentrated in a small number of core campaigns: top 5 re
 - Category Vay Chiet Eo Xoe (*waist-flare dresses*) account for over 50% of revenue in the Flowers Make My Day campaign
 - In contrast, clothing sets generate almost no revenue within these high-performing campaigns.
 
-### *Top 5 campaigns drive revenue*
+#### *Top 5 campaigns drive revenue*
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/f5499109bfff2f6bea5496d9b443cfe01c109b76/Top%205%20campaign%20revenue%20.png)
+<img width="411" height="297" alt="image" src="https://github.com/user-attachments/assets/c981b0a3-873b-4bfd-bc1a-e31aa0b66cbb" />
 
-### *Detail revenue of each category from Flowers Make My Day campaign*
+#### *Detail revenue of each category from Flowers Make My Day campaign*
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/f5499109bfff2f6bea5496d9b443cfe01c109b76/Insight%20-%20Category%20%26%20Revenue%20of%20Flower%20make%20my%20day%20camp.png)
+<img width="259" height="140" alt="image" src="https://github.com/user-attachments/assets/cdd869b2-aa38-4327-952d-b0658098e012" />
 
 In terms of ROAS:
 - Category Vay Chiet Eo Om (*waist-fitted dresses*) recorded the highest ROAS (22.9), peaking in Weeks 4–5
 - Campaigns launched earlier (Weeks 1–3) did not achieve comparable efficiency
 - Out of 175 campaigns, only 7 campaigns (~4%) generated zero revenue, indicating that poor performance is not driven by widespread campaign failure.
 
-### *ROAS and weekly camplaigns run by category*
+#### *ROAS and weekly camplaigns run by category*
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/6ea92a0644f087c108cf4f11163b827c3c3f169f/ROAS%20by%20category.png)
+<img width="761" height="231" alt="image" src="https://github.com/user-attachments/assets/d3143994-ad79-43e3-8017-72922c08b016" />
 
-### *Lowest Performing Campaigns by Ad Revenue* 
+#### *Lowest Performing Campaigns by Ad Revenue* 
 
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/d12ddaf6183d82e34b7a8d9098d3a74e974bee12/Top%207%20campaign%20with%20lowest%20revenue.png)
+<img width="413" height="296" alt="image" src="https://github.com/user-attachments/assets/682f876d-4672-4f39-b4d7-2c4576b848cf" />
 
 ## Recommendations
 - Reallocate budgets from low performing campaigns and categories toward proven core campaigns
