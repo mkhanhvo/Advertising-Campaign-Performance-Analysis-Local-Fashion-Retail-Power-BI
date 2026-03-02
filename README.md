@@ -1,4 +1,4 @@
-# 📊 Advertising Campaign Performance Analysis: Revenue, Profit and Sales Impact
+# 📊 Advertising Campaign Performance & Profitability Analysis
 
 ### Author: Vo Tran Mai Khanh
 ### Date: 12/2025
