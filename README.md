@@ -121,10 +121,13 @@ The business operates in the Vietnamese fashion market with nationwide coverage.
 
 <img width="1052" height="206" alt="image" src="https://github.com/user-attachments/assets/e3148cb8-2ee2-4c9e-8b91-51e8c7cfa9ba" />
 
+## 📊 Key Insights & Visualizations  
 
-## Executive Summary
+### 🔍 Dashboard Preview  
 
-During 31 day campaign period, advertising played a central role in order generation by contributing 1,958 out of 2,858 orders (68.5%) and approximately 3 billion VND out of 5 billion VND in total revenue. However, profitability did not scale with sales volume: more than 60% of campaign days recorded negative profit and the ads channel alone showed negative profit on 22 out of 31 days (~70%), despite maintaining positive revenue
+#### 1️⃣ Overview page preview  
+
+
 
 ### *Revenue by Channel*
 
