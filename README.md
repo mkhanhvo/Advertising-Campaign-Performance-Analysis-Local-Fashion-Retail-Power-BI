@@ -218,15 +218,6 @@ Ads revenue is highly concentrated in a small number of core campaigns: top 5 re
 
 <img width="411" height="297" alt="image" src="https://github.com/user-attachments/assets/8722c978-a3f2-4dfc-8fea-82cddb1817ca" />
 
-In terms of ROAS:
-- Category Vay Chiet Eo Om (*waist-fitted dresses*) recorded the highest ROAS (22.9), peaking in Weeks 4–5
-- Campaigns launched earlier (Weeks 1–3) did not achieve comparable efficiency
-- Out of 175 campaigns, only 7 campaigns (~4%) generated zero revenue, indicating that poor performance is not driven by widespread campaign failure.
-
-#### *ROAS and weekly camplaigns run by category*
-
-<img width="761" height="231" alt="image" src="https://github.com/user-attachments/assets/d3143994-ad79-43e3-8017-72922c08b016" />
-
 #### *Lowest Performing Campaigns by Ad Revenue* 
 
 <img width="413" height="296" alt="image" src="https://github.com/user-attachments/assets/682f876d-4672-4f39-b4d7-2c4576b848cf" />
@@ -248,6 +239,7 @@ Budget scaling:
 - CPM ranges between 60K–100K with no meaningful decline as impressions increase
 
 Category level highlights
+
 **Waist flare dresses *(*Vay chiet eo xoe*)*:** stable funnel, Click → Order ~20%+, conversion cost does not worsen with increased spend
 
 <img width="1003" height="180" alt="image" src="https://github.com/user-attachments/assets/a0f62f29-a476-4866-bcf4-2105f749ea3f" />
@@ -268,20 +260,29 @@ Category level highlights
 
 <img width="1001" height="176" alt="image" src="https://github.com/user-attachments/assets/6976f65f-1960-4e80-a7b8-4bca749e616e" />
 
+### 3️⃣ Sales & Product Performance Analysis 
+
+<img width="856" height="540" alt="image" src="https://github.com/user-attachments/assets/3a8fd301-0dd0-46d4-aab8-3c72564c54a7" />
+
+### 📌 Analysis 1. In terms of ROAS:
+- Category Vay Chiet Eo Om (*waist-fitted dresses*) recorded the highest ROAS (22.9), peaking in Weeks 4–5
+- Campaigns launched earlier (Weeks 1–3) did not achieve comparable efficiency
+- Out of 175 campaigns, only 7 campaigns (~4%) generated zero revenue, indicating that poor performance is not driven by widespread campaign failure.
+
+#### *ROAS and weekly camplaigns run by category*
+
+<img width="761" height="231" alt="image" src="https://github.com/user-attachments/assets/d3143994-ad79-43e3-8017-72922c08b016" />
+
+### 📌 Analysis 2. Weekly Order Trend & Channel Dynamics:
+
+Across the 5-week campaign, both Ads and Direct Sales show a clear growth pattern followed by a decline in the final week, with Ads consistently driving higher order volume. The strongest acceleration occurred from Week 1 to Week 2, where **Ads orders surged by +296% (112 to 443) and Direct Sales increased by +157% (84 to 216)**, indicating the campaign’s initial impact phase. Growth then **stabilized in Week 2 to Week 3,** with **Ads rising only +6% and Direct Sales +1%,** suggesting performance plateauing
+
+Momentum picked up again in Week 3 to Week 4, particularly for **Direct Sales (+28% vs. Ads +8%),** **reflecting improved channel balance.** However, Week 4 to Week 5 marked a contraction, **with Ads declining –5% and Direct Sales dropping more sharply at –13%,** **signaling late stage fatigue.** Overall, while Ads remains the dominant volume driver, Direct Sales exhibits greater volatility and stronger relative swings, implying that channel performance dynamics shift throughout the campaign lifecycle rather than growing linearly
+
+<img width="1026" height="208" alt="image" src="https://github.com/user-attachments/assets/90c21196-7cdb-471f-b040-e6d6bc71a334" />
 
 
-## II. Product & Sales Performance – Insights & Recommendations
 
-
-
-
-  
-
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%202%20-%20%C3%A1o%20t%C3%A1ch%20set).png)
-
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%204%20-%20qu%E1%BA%A7n%20t%C3%A1ch%20set).png)
-
-![image alt](https://github.com/mkhanhvo/Business-Performance-Overview-Revenue-Profit-Advertising-Impact/blob/c6b8fdbab92b15130bd7b583cfdf9bea30123414/Insight%20-%20Conversion%20rate%20funnel%20(Category%203%20-%20ch%C3%A2n%20v%C3%A1y%20t%C3%A1ch%20set).png)
 
 ## Recommendations
 - Focus optimization on the purchase decision stage, not media exposure
