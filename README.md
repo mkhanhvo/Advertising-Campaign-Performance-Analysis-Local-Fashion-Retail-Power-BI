@@ -28,7 +28,7 @@ The business operates in the Vietnamese fashion market with nationwide coverage.
 ## 📂 Dataset Description & Data Structure  
 
 ### 📊 Data Source  
-- Source: dataset including order data (Direct vs Ads), campaign spending distribution and product dimension tables, enabling performance and profitability analysis at channel and product levels
+- Source: dataset including order records (Direct vs Ads), campaign spending distribution and product dimension tables, enabling performance and profitability analysis at channel and product levels
 - Size: ~600+ records across two fact tables and supporting product dimensions
 - Format: .xlsx
 
@@ -303,12 +303,6 @@ Across categories, **performance is uneven and not directly correlated with camp
 - Consolidate campaigns in mid performing categories to reduce budget fragmentation
 - Apply category-specific budget allocation, increasing investment only where marginal ROAS remains stable rather than expanding campaign count broadly
 - Monitor diminishing return effects in high spend categories through incremental budget testing
-
-## Recommendations
-- Focus optimization on the purchase decision stage, not media exposure
-- Scale waist-flare dresses with tight control
-- Keep waist fitted dresses category in a testing phase
-- Limit conversion-focused ads for sets and separated items, instead use bundles styling suggestions and conditional promotions
 
 ## 🔎 Final Conclusion & Recommendations  
 
